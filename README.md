@@ -14,4 +14,4 @@ Python Pillow 5.3.0
 `python3 IMGC.py`
 
 ## Design
-![image](Design.png)
+![image](Design.PNG)
